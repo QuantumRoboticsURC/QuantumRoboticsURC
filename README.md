@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3 align="left">Directory</h3>
 
-<!--
-**QuantumRoboticsURC/QuantumRoboticsURC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="left">GUI</h4>
+<ul>
+<li><a href="https://github.com/QuantumRoboticsURC/Web_Interface">Web Interface</a></li>
+</ul>
+<h4 align="left">Navigation</h4>
+<ul>
+<li><a href="https://github.com/QuantumRoboticsURC/ros_imu_bno055">imu_bno055</a></li>
+<li><a href="https://github.com/QuantumRoboticsURC/ublox">ublox_gps</a></li>
+<li><a href="https://github.com/QuantumRoboticsURC/qr_navigation">qr_navigation</a></li>
+<li><a href="https://github.com/QuantumRoboticsURC/nav_dif">nav_diff</a></li>
+<li><a href="https://github.com/QuantumRoboticsURC/simple_drive">simple_drive</a></li>
+</ul>
+<h4 align="left">Robotic Arm</h4>
+<ul>
+<li><a href="https://github.com/QuantumRoboticsURC/qr_arm_control">Robotic Arm</a></li>
+</ul>
+<h4 align="left">Vision</h4>
+<ul>
+<li><a href="https://github.com/QuantumRoboticsURC/zed-ros-wrapper">zed ros wrapper</a></li>
+<li><a href="https://github.com/QuantumRoboticsURC/zed-ros-examples">zed ros examples</a></li>
+<li><a href="https://github.com/QuantumRoboticsURC/usb_cam">usb cam</a></li>
+</ul>
