@@ -21,4 +21,6 @@
 <li><a href="https://github.com/QuantumRoboticsURC/zed-ros-wrapper">zed ros wrapper</a></li>
 <li><a href="https://github.com/QuantumRoboticsURC/zed-ros-examples">zed ros examples</a></li>
 <li><a href="https://github.com/QuantumRoboticsURC/usb_cam">usb cam</a></li>
+<li><a href="https://github.com/QuantumRoboticsURC/Zed-implementations.git">zed implementations</a></li>
+  
 </ul>
