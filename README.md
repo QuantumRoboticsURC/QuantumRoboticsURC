@@ -25,7 +25,8 @@
   
 </ul>
 
-<h3>Guidelines</h3>
+<details>
+<summary><h3>Guidelines</h3></summary>
 <h4> Branches </h4>
 When you work with code along other developers, a branch shall be created, the structure for the branch must be the following:
 <br><b>{firstLetterYourName}{firstLastName}/{BriefDescription}</b><br>
@@ -57,3 +58,4 @@ Notes:
 - Add an exit option
 * Despite the code adds 0.00001 theorically, it's not exact.
 ```
+</details>
