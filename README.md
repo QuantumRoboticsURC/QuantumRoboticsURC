@@ -24,3 +24,36 @@
 <li><a href="https://github.com/QuantumRoboticsURC/Zed-implementations.git">zed implementations</a></li>
   
 </ul>
+
+<h3>Guidelines</h3>
+<h4> Branches </h4>
+When you work with code along other developers, a branch shall be created, the structure for the branch must be the following:
+<br><b>{firstLetterYourName}{firstLastName}/{BriefDescription}</b><br>
+For example, Ariadna Huesca Coronado is working in a publisher of a coordinate so the name of the branch should be:
+<br><b>ahuesca/coordinate_publisher</b>
+<h4>Header</h4>
+<p>Every file that contains code must contain a header with the following structure:</p>
+
+
+```
+Made by:Raul Lopez Musito
+	A01378976@tec.mx
+	raulmusito@gmail.com
+
+Modified (DD/MM/YY): 
+	Raul Musito 28/06/2022 Correct a bugg at the number of line write at 
+				the csv file.
+	Raul Musito 03/06/2022 Created the program
+
+Code description:
+1. Ask the user for the name of a file.
+2. If the file exist at a predefined directory it opens it and read it.
+   If not, it creates a file with the name.
+3. Ask the user the action to execute (write lat & long | write the square).
+4. Close the file. 
+
+Notes:
+- Validate the user input
+- Add an exit option
+* Despite the code adds 0.00001 theorically, it's not exact.
+```
