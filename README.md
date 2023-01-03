@@ -3,6 +3,8 @@
 <h4 align="left">GUI</h4>
 <ul>
 <li><a href="https://github.com/QuantumRoboticsURC/Web_Interface">Web Interface</a></li>
+<li><a href="https://github.com/QuantumRoboticsURC/QuantumRoboticsApp">Mobile App</a></li>
+	
 </ul>
 <h4 align="left">Navigation</h4>
 <ul>
@@ -22,7 +24,10 @@
 <li><a href="https://github.com/QuantumRoboticsURC/zed-ros-examples">zed ros examples</a></li>
 <li><a href="https://github.com/QuantumRoboticsURC/usb_cam">usb cam</a></li>
 <li><a href="https://github.com/QuantumRoboticsURC/Zed-implementations.git">zed implementations</a></li>
-  
+</ul>
+<h4 align="left">Custom configuration</h4>
+<ul>
+<li><a href="https://github.com/QuantumRoboticsURC/custom_messages">custom messages</a></li>
 </ul>
 
 <details>
